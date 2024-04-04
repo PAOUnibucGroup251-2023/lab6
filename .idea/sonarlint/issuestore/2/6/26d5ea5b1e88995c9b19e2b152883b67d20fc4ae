@@ -1,0 +1,9 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î…éß8¼¯ÜÁê1J$21bdd496-ab24-4792-82b2-08ca697c7dd4
+g
+java:S2157"%Add a "clone()" method to this class.(Ş²Éo8Ï¯ÜÁê1J$ee972b2e-7719-4b73-82d3-3226785cdb21
+m	java:S106?"+Replace this use of System.out by a logger.(¢¬ê«8Ù¯ÜÁê1J$040475a3-abe8-460a-a808-d9cca230d590
+r	java:S106E"+Replace this use of System.out by a logger.(‰İ˜¹úÿÿÿÿ8Ù¯ÜÁê1J$51556b95-c502-4491-9f9a-705681816ad4
+~	java:S125D"<This block of commented-out lines of code should be removed.(Ø·İÉ8Û¯ÜÁê1J$184fd95e-edb8-4d46-898a-bfaf321cbe26
+r	java:S106G"+Replace this use of System.out by a logger.(…ÈŞûıÿÿÿÿ8Û¯ÜÁê1J$9108a2a5-7119-4d40-b69c-576b9727fc25
+r	java:S106I"+Replace this use of System.out by a logger.(¶ŸÁıÿÿÿÿ8ÌÀŞÁê1J$e6f07227-d4fe-404e-a21b-801093af2d82
